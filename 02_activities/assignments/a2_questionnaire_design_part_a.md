@@ -16,30 +16,91 @@ Select one of the scenarios below and design a survey to meet the need(s) outlin
 
 # Your Changes
 
-The number of your chosen topic: `#`
+The number of your chosen topic: `#1`
 
 Describe the purpose of your survey:
 ```
-write your answer here...
-```
+The purpose of this survey is to identify factors contributing to employee turnover and to gain insights into potential improvements in job satisfaction and retention, particularly for entry- and lower-level employees.```
 
 Describe your target population, sampling frame, sampling units, and observational units:
 ```
-write your answer here...
-```
+Target Population: Current and recently departed employees in entry- and lower-level positions.
+
+Sampling Frame: Company records of employees in targeted positions over the past 12 months.
+
+Sampling Units: Individual employees within these positions.
+
+Sampling Strategy: Stratified random sampling, ensuring a balanced representation from each department affected by turnover.```
 
 Your 5-10 question survey:
 ```
-1. write your question here...
-2. write your question here...
-3. write your question here...
-4. write your question here...
-5. write your question here...
-6. write your question here... (optional)
-7. write your question here... (optional)
-8. write your question here... (optional)
-9. write your question here... (optional)
-10. write your question here... (optional)
+1 - How long have you been with the company?
+Less than 6 months
+6-12 months
+1-2 years
+Over 2 years
+
+2- How satisfied are you with your current role?
+Very satisfied
+Somewhat satisfied
+Neutral
+Somewhat dissatisfied
+Very dissatisfied
+
+3 - How would you rate your work-life balance in your current position?
+Excellent
+Good
+Fair
+Poor
+Very poor
+
+4- Do you feel you have opportunities for growth and advancement within the company?
+Yes
+Somewhat
+No
+
+5- How supported do you feel by your manager or supervisor?
+Very supported
+Somewhat supported
+Neutral
+Somewhat unsupported
+Very unsupported
+
+6- Are you satisfied with the current compensation and benefits package?
+Very satisfied
+Somewhat satisfied
+Neutral
+Somewhat dissatisfied
+Very dissatisfied
+
+7- What would most improve your satisfaction in your role? (Select up to 3)
+Higher compensation
+Better work-life balance
+Clearer path for career advancement
+More recognition for achievements
+Improved management support
+Better team dynamics
+
+
+8 - Are you considering leaving the company within the next six months?
+Yes
+No
+
+9- How satisfied are you with your Salary and income?
+Very satisfied
+Somewhat satisfied
+Neutral
+Somewhat dissatisfied
+Very dissatisfied
+Unsure
+
+10- How satisfied are you with the opportunities for growth and learn in your role?
+Very satisfied
+Somewhat satisfied
+Neutral
+Somewhat dissatisfied
+Very dissatisfied
+Unsure
 ```
 
 ## Rubric
