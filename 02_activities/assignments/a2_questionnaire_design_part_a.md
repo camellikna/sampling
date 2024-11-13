@@ -30,7 +30,10 @@ Sampling Frame: Company records of employees in targeted positions over the past
 
 Sampling Units: Individual employees within these positions.
 
-Sampling Strategy: Stratified random sampling, ensuring a balanced representation from each department affected by turnover.```
+Sampling Strategy: Stratified random sampling, ensuring a balanced representation from each department affected by turnover.
+
+***Observational Unit: Individual employees in entry and lower level positions. These individuals are the source of the data for our survey, and we will be gathering information from them to analyze turnover factors and satisfaction.***
+```
 
 Your 5-10 question survey:
 ```
