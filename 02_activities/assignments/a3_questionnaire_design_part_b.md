@@ -7,7 +7,6 @@
     I believe , the sample cover target population :
     My target population includes both current and recently departed employees, ensuring  gather insights from those still within the company and those who have left, providing a well-rounded perspective on the causes of turnover.
     Using company records from the past 12 months is a logical and relevant choice for this analysis, as it captures employees who have experienced recent organizational conditions.
-
     ```
 
 2. Given the class content (error, survey quality, ethics) covered since Part A of the assignment, do you wish to make any changes to your original survey? If so, make a copy of your original survey and make any desired changes. Describe the changes and your reasoning. Provide a link here for submission.
@@ -16,7 +15,6 @@
     More response option (Clarity) :
 4- Do you feel you have opportunities for growth and advancement within the company? Yes Somewhat No
 (for this question I beleive It can be better if I add some parameter for choose , like this : Very satisfied Somewhat satisfied Neutral Somewhat dissatisfied Very dissatisfied
-
     Ethical considerations : Adding a consent statement to ensure anonymity and voluntary participation
     ```
 
