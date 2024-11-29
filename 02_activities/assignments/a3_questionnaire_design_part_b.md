@@ -32,24 +32,39 @@
 
  Addition : 
 
- Suggestions for Improvement:
-1. Question Design:
-•	Clarity and Precision:
+ ***Suggestions for Improvement Question Design:***
+
+
+**•	Clarity and Precision:**
+
 o	Q4: "Do you feel you have opportunities for growth and advancement within the company?"
 Consider adding a time frame (e.g., "Do you feel you have opportunities for growth and advancement within the company over the next year?") to make responses more actionable.
+
 o	Q7: "What would most improve your satisfaction in your role?"
 Including an "Other (please specify)" option allows respondents to share unique insights.
-•	Avoid Overlap:
+
+**•	Avoid Overlap:**
+
 o	Q9 and Q6 both touch on satisfaction with compensation but use slightly different wording. This may confuse respondents or lead to redundant data. Consolidate or clarify their differences.
-•	Consistency in Scales:
+
+**•	Consistency in Scales:**
+
 o	Q4 and Q5 use different scales (e.g., Yes/No/Somewhat vs. Very supported to Very unsupported). Standardizing response scales across the survey improves comparability.
-•	Ambiguity:
+
+**•	Ambiguity:**
+
 o	Q10: "How satisfied are you with the opportunities for growth and learning in your role?"
 Correct "learn" to "learning" for better readability.
 
-Bias of Sampling: The sampling frame includes only employees from company records over the past 12 months. This could exclude:
+
+
+***Bias of Sampling:***
+The sampling frame includes only employees from company records over the past 12 months. This could exclude:
+
 •	Employees who left before the past 12 months, who might have valuable insights.
+
 •	Recently hired employees who may not yet have experienced factors leading to turnover.
+
 Impact: This may overrepresent the perspectives of current employees or those who left very recently, neglecting longer-term patterns or insights.
 Addressing the clarity, consistency, and structure of survey questions and refining the sampling strategy, can significantly reduce bias and gather more reliable data. This will ultimately help identify actionable insights to address turnover and improve employee satisfaction.
 
